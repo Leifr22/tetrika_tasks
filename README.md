@@ -26,8 +26,8 @@ sum_two(1, 2.4)    # ❌ TypeError
 
 ```bash
 StrictDecorator/
-├── solution.py    # решение задачи + тесты (unittest)
-└── README.md      # это описание
+└── solution.py    # решение задачи + тесты (unittest)
+README.md      # это описание
 ```
 
 ---
