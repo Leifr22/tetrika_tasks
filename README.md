@@ -67,7 +67,7 @@ pytest
 
 ```
 tetrika_tasks/
-├── solution.py              
-├── beasts.py
-└── README.md
+├── solution.py #решение задачи вместе с тестом              
+└── beasts.py #финальный файл на выходе
+README.md
 ```
