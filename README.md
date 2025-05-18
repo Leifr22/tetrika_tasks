@@ -68,6 +68,6 @@ pytest
 ```
 tetrika_tasks/
 ├── solution.py              
-├── test_parser.py
+├── beasts.py
 └── README.md
 ```
