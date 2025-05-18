@@ -53,9 +53,6 @@ cd lesson-interval
 ```bash
 python solution.py
 ```
-
-> Все тесты должны пройти: `Ran 7 tests in 0.001s OK`
-
 ---
 
 ### 📁 Структура проекта
