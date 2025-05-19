@@ -59,7 +59,8 @@ python solution.py
 
 ```
 lesson-interval/
-└── solution.py       # Основное решение + юнит-тесты
+├── solution.py.     #Основное решение
+└── test.py          #Юнит-тесты
 README.md         
 ```
 
